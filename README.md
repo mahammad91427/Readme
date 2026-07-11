@@ -5,25 +5,43 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafi-1234&color=blueviolet" alt="Visitor Badge">
+  <img src="https://komarev.com/ghpvc/?username=mahammad91427&color=blueviolet" alt="Visitor Badge">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **B.Tech CSE (AI ) student** and passionate **Full Stack Developer** dedicated to building scalable, AI-powered applications. With expertise in modern web technologies and machine learning frameworks, I transform ideas into real-world products.
+Entry-level **Software Engineer** and **B.Tech CSE (AI) student** at G. Pullaiah College of Engineering and Technology, with expertise in full-stack development using **Next.js, React, Flask, and PostgreSQL**. Based in Kurnool, Andhra Pradesh, India — **open to relocation**.
 
 - 🔭 Currently building AI-powered applications with Next.js and LLMs
 - 🌱 Learning advanced Full Stack Development & Cloud Technologies
-- 💡 Interested in AI, Web Development, and Software Engineering
+- 💡 Proficient in web scraping, database design, and complete SDLC
 - 🤝 Open to Software Engineer and Full Stack Developer opportunities
-- ⚡ Love turning ideas into production-ready products
+- 📍 Kurnool, Andhra Pradesh, India (Willing to Relocate)
+- 📫 Reach me at **mahammadrafi9133@gmail.com**
 
 ### 🎯 Featured Projects:
-- **TranZact AI** — AI-powered personal finance platform (Next.js, React, PostgreSQL, Gemini API)
-- **Mobile Price Comparison Platform** — Web scraping e-commerce tool (Flask, BeautifulSoup, MongoDB)
-- **Nasha AI** — Offline AI Assistant (Streamlit, LangChain, Ollama)
+- **TranZact AI** — AI-powered personal finance platform for transactions, budgeting & spend insights (Next.js, React, Clerk, PostgreSQL, Prisma, Google Gemini API) — *Dec 2024 – May 2025*
+- **Mobile Price Comparison Platform** — E-commerce web scraper & price comparison tool (Beautiful Soup, Flask, MongoDB, HTML/CSS/JS) — *Mar 2024 – Jul 2024* — [Live Site](https://mobilepricecomparision.onrender.com)
+- **Nasha AI** — Offline, privacy-first AI assistant with customizable chat interface (Streamlit, LangChain, Ollama) — [Live Demo](https://nasha-ai.streamlit.app)
+
+---
+
+## 🎓 Education
+
+| Institution | Degree | Duration | Score |
+|---|---|---|---|
+| G. Pullaiah College of Engineering and Technology | B.Tech, CSE (AI) | 2023 – 2027 | CGPA: 7.33 |
+| Sri Chaitanya Jr College | Intermediate (XII) | 2021 – 2023 | 88.20% |
+| Bhashyam High School | SSC (X) | 2020 – 2021 | 96.50% |
+
+---
+
+## 📜 Certifications
+
+- **ServiceNow Administration Internship** — SmartInternz & APSCHE (May 2025 – Jul 2025) · Certificate ID: EXT-APSCHE SA-34579
+- **Networking Cloud Virtual Internship** — Juniper Networks · Cloud networking, virtualization & deployment
 
 ---
 
@@ -64,11 +82,11 @@ I'm a **B.Tech CSE (AI ) student** and passionate **Full Stack Developer** dedic
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafi-1234&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammad91427&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shafi-1234&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahammad91427&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-1234&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad91427&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages">
 </div>
 
 ---
@@ -76,28 +94,30 @@ I'm a **B.Tech CSE (AI ) student** and passionate **Full Stack Developer** dedic
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shafi-1234&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahammad91427&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafi-1234&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammad91427&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
 
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/mahammadrafi9133">
+  <a href="https://www.linkedin.com/in/rafi9133">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
 
-  
   <a href="https://github.com/mahammad91427">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="mailto:mahammadrafi9133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
